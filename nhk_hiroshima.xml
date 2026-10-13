@@ -1,94 +1,416 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-    <title>NHK 広島県の最新ニュース</title>
-    <link>https://news.web.nhk/newsweb/area/340</link>
-    <description>NHKニュース「広島県の最新ニュース」の更新情報</description>
+    <title>NHK 広島県のニュース</title>
+    <link>https://news.web.nhk/newsweb/pl/news-nwa-all-local340-weekly</link>
+    <description>NHKニュース 過去1週間分のニュース（広島県）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Oct 2026 19:20:25 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:36:11 +0900</lastBuildDate>
+    <item>
+      <title>広島 従業員に特殊詐欺の仕事誘ったか 会社元社長ら再逮捕</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261013de58766</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Tue, 13 Oct 2026 19:09:19 +0900</pubDate>
+      <guid isPermaLink="false">97700f554e257ad8e9b9c649e120cc8ca4de1ea2a4124d492a6b61dbb950753c</guid>
+    </item>
+    <item>
+      <title>福山 偽造コイン両替か 模造金事件逮捕の中国籍会社役員再逮捕</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261013de58743</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Tue, 13 Oct 2026 18:05:00 +0900</pubDate>
+      <guid isPermaLink="false">275a0e0af1a946e9db295fce9112bc20accb6078bafc0993478258c77c076c76</guid>
+    </item>
+    <item>
+      <title>県立広島大教授 強制わいせつ罪問われた裁判で有罪判決</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261013de58668</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Tue, 13 Oct 2026 17:34:00 +0900</pubDate>
+      <guid isPermaLink="false">49c0b9fbd726e14468eb99b6728715746fa6611d7cddd1e1ca90a1f7fce2a1a5</guid>
+    </item>
     <item>
       <title>広島 廿日市 色とりどりのダリアが見頃に</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261013de58585</link>
-      <description>NHK 広島県の最新ニュース</description>
-      <pubDate>Tue, 13 Oct 2026 17:30:00 +0900</pubDate>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Tue, 13 Oct 2026 17:30:04 +0900</pubDate>
       <guid isPermaLink="false">8d4f4851eb47f9d7c51cabcb04180c31ac72783b000b733150fad46541408a33</guid>
     </item>
     <item>
       <title>尾道道通行止め解除 世羅ICー甲奴IC 下り線</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261013de58506</link>
-      <description>NHK 広島県の最新ニュース</description>
-      <pubDate>Tue, 13 Oct 2026 13:36:00 +0900</pubDate>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Tue, 13 Oct 2026 13:36:43 +0900</pubDate>
       <guid isPermaLink="false">cfb15ae4cfe28815940d7434aae71c4298449dfde5ceeadff5670fab9020d9fb</guid>
+    </item>
+    <item>
+      <title>江田島 養殖かきの成育環境改善めざし漁協が対策 広島</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261013de58408</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Tue, 13 Oct 2026 12:42:34 +0900</pubDate>
+      <guid isPermaLink="false">513d3ec2697abde0f722b61f054455e874b87de32fef6a3581d710496a8ca3fd</guid>
+    </item>
+    <item>
+      <title>広島サンダーズが必勝祈願 バレーボールSVリーグ開幕を前に</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261013de58449</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Tue, 13 Oct 2026 12:04:00 +0900</pubDate>
+      <guid isPermaLink="false">ca6b85edf256441e344b493f612ce1e7cfc93a68abdb64d5fa7811c829ec5cb0</guid>
     </item>
     <item>
       <title>尾道道通行止め 世羅ICー甲奴IC 下り線</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261013de58384</link>
-      <description>NHK 広島県の最新ニュース</description>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
       <pubDate>Tue, 13 Oct 2026 11:04:00 +0900</pubDate>
       <guid isPermaLink="false">ca3a5ead5856ff5841fb84594ab43ddf6b5575936bd40d30a9c732eb87d01e28</guid>
     </item>
     <item>
+      <title>三次 赤やピンクのそばの花が見ごろ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261012de58280</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Tue, 13 Oct 2026 05:12:00 +0900</pubDate>
+      <guid isPermaLink="false">2f759f6d9f5163525b368fb47b797944543bbbfc2c444d6ce56defe3268c1009</guid>
+    </item>
+    <item>
       <title>カープ優勝記念碑をファンが清掃 来季の飛躍願う 広島</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261012de58132</link>
-      <description>NHK 広島県の最新ニュース</description>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
       <pubDate>Mon, 12 Oct 2026 20:40:00 +0900</pubDate>
       <guid isPermaLink="false">104d6a556df32fd688fe9fa619ad2e96e1beb873a3c3cd12dead7ae7f57f82f9</guid>
     </item>
     <item>
+      <title>クマ1頭を緊急銃猟で駆除 緊急銃猟は県内で初 広島 安佐北区</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261012de58253</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Mon, 12 Oct 2026 20:36:00 +0900</pubDate>
+      <guid isPermaLink="false">66f52de608ee51f975ee78aa62d6e12d866a7e58051cf9a8a3ca30e60a3d3509</guid>
+    </item>
+    <item>
       <title>財政健全化へ 公共施設集約方針の住民説明会 神石高原町</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261012de58238</link>
-      <description>NHK 広島県の最新ニュース</description>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
       <pubDate>Mon, 12 Oct 2026 20:26:00 +0900</pubDate>
       <guid isPermaLink="false">8acf340686855e23233700fea1025e3155913ad681659e56c918ebe58c908b8f</guid>
     </item>
     <item>
       <title>尾道道の通行止め解除 三次東ＪＣＴ・ＩＣー三良坂ＩＣ</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261012de58240</link>
-      <description>NHK 広島県の最新ニュース</description>
-      <pubDate>Mon, 12 Oct 2026 20:23:00 +0900</pubDate>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Mon, 12 Oct 2026 20:23:11 +0900</pubDate>
       <guid isPermaLink="false">c7c9bbb1590f36e64a562a4939fd253f02368cf17365c1c7315e415f52acd8d9</guid>
     </item>
     <item>
       <title>尾道道通行止め 三次東JCT・ICー三良坂IC 上り線</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261012de58175</link>
-      <description>NHK 広島県の最新ニュース</description>
-      <pubDate>Mon, 12 Oct 2026 16:48:00 +0900</pubDate>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Mon, 12 Oct 2026 16:48:30 +0900</pubDate>
       <guid isPermaLink="false">fcc32e2f8ab00b9e3ad2cfa37a07aaf12651ce1e00ae5e8a7862dfbcc53099a4</guid>
     </item>
     <item>
       <title>広島 世羅町 住宅で夫婦死亡 夫が無理心中図った可能性も</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261012de58088</link>
-      <description>NHK 広島県の最新ニュース</description>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
       <pubDate>Mon, 12 Oct 2026 10:55:00 +0900</pubDate>
       <guid isPermaLink="false">1c0d4e4c18f673c28a366a9ccaf33f09fd1e40810854225a6e6a8ec046f40596</guid>
     </item>
     <item>
       <title>秋晴れの広島市で約4万人参加のスポーツイベント</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261011de57906</link>
-      <description>NHK 広島県の最新ニュース</description>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
       <pubDate>Sun, 11 Oct 2026 15:42:00 +0900</pubDate>
       <guid isPermaLink="false">2d7324d7eeb4b21f91c2aa1bfab7facd1e8ef890b5c2db61a6c87c57cc646e75</guid>
     </item>
     <item>
       <title>三次 中学生が清掃活動 旧三江線の廃駅周辺でも 広島</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261011de57902</link>
-      <description>NHK 広島県の最新ニュース</description>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
       <pubDate>Sun, 11 Oct 2026 15:19:00 +0900</pubDate>
       <guid isPermaLink="false">ce570adc8f33c99bf033a1c24acf9856b29fe60121cb4672a3561713f919f409</guid>
     </item>
     <item>
       <title>乳がん予防で広島城周辺をウォーキング “運動習慣を”</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261011de57858</link>
-      <description>NHK 広島県の最新ニュース</description>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
       <pubDate>Sun, 11 Oct 2026 11:49:00 +0900</pubDate>
       <guid isPermaLink="false">73501937819a594c14fc1f66ce4f6ad4c79bf5a386e328a87c2300f837f10461</guid>
     </item>
     <item>
       <title>広島 八丁堀で路面電車とバスの接触事故 1人けが 交通にも影響</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261010de57763</link>
-      <description>NHK 広島県の最新ニュース</description>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
       <pubDate>Sat, 10 Oct 2026 20:39:00 +0900</pubDate>
       <guid isPermaLink="false">0dbdd968c6c60f4f99860eba0c135e3762bf6c662624911688c73136f4e7a695</guid>
+    </item>
+    <item>
+      <title>「鉄道の日」を前に鉄道に親しんでもらうイベント 三次</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261010de57694</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Sat, 10 Oct 2026 20:37:00 +0900</pubDate>
+      <guid isPermaLink="false">af342a11fab44c6d15deaf14f83a038fdc1033c694fdbfe265d45d40cd8d9375</guid>
+    </item>
+    <item>
+      <title>酒どころ東広島 恒例の「酒まつり」始まる</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261010de57641</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Sat, 10 Oct 2026 16:59:00 +0900</pubDate>
+      <guid isPermaLink="false">4e04b7e017803ab9318fbef37208dbe7d23f29f46ba5165ddd03b1c16383b02b</guid>
+    </item>
+    <item>
+      <title>「お好み焼の日」鉄板囲み焼き方学ぶ教室 広島</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261010de57653</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Sat, 10 Oct 2026 16:57:00 +0900</pubDate>
+      <guid isPermaLink="false">e30a4caf6e3f3cff1f3d9256103b439bac3c5f9aa234b2a28bd16ca62fc8281b</guid>
+    </item>
+    <item>
+      <title>広島 枯れ葉剤被害のドクさんと被爆者が対談 平和訴える</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261010de57572</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Sat, 10 Oct 2026 10:15:00 +0900</pubDate>
+      <guid isPermaLink="false">a03683dc57cd27b38708c035e4364e6c930afddd32ffbbf20c43d4e242d0e6aa</guid>
+    </item>
+    <item>
+      <title>広島地検福山支部 知人女性殺人未遂容疑で逮捕の男性を不起訴</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57470</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 22:12:32 +0900</pubDate>
+      <guid isPermaLink="false">64f38eab705fd025bf69af3d64a880a2b198e8a1b7fc7493aabc11bec175711f</guid>
+    </item>
+    <item>
+      <title>廿日市市 津波避難のポイント【ひろしま防災さんぽ】</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57446</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 19:09:00 +0900</pubDate>
+      <guid isPermaLink="false">29948d12359484f79721431ce3866684b05afad90f606fdbc315d0fa0787bbc5</guid>
+    </item>
+    <item>
+      <title>カープ新井監督が今季終えオーナー報告「来季は笑えるように」</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57433</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 18:20:00 +0900</pubDate>
+      <guid isPermaLink="false">5353c9951b4bf50c586bfbfeba9db3d19bbbcf2b2c858da6b585ae495d7d6de8</guid>
+    </item>
+    <item>
+      <title>広島「アポ電」高額窃盗事件 3人組が新幹線で関東へ逃走か</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57158</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 18:18:00 +0900</pubDate>
+      <guid isPermaLink="false">f8bdcc436a0ba6423c00b68d80ed110152698ffd93698579c680389daf9b331c</guid>
+    </item>
+    <item>
+      <title>広島 冷房ある学校体育館 半数市町で“ゼロ” 府中町は整備へ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57260</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 18:11:00 +0900</pubDate>
+      <guid isPermaLink="false">f1ac2f3f42a2a7dc49e8eddea497b12dd5f0a0e7718d5233adbd81a722a3ed21</guid>
+    </item>
+    <item>
+      <title>広島 横田知事「副首都」指定要件案“納得できず”政府に要望</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57339</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 18:08:00 +0900</pubDate>
+      <guid isPermaLink="false">563871ff09e95468bbcc678c6ce065672016c1e073789e2552018b2d4e46acc2</guid>
+    </item>
+    <item>
+      <title>研究者が会見「絶対ノーベル賞になると思っていた」</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57194</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 17:50:00 +0900</pubDate>
+      <guid isPermaLink="false">d182d29fb678d41938f3d4253222927993bb182bf7fe3bf4a9ddc60685973c6c</guid>
+    </item>
+    <item>
+      <title>野球の競技人口減少対策を球界全体で 協議会を設立へ 広島</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57282</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 17:45:00 +0900</pubDate>
+      <guid isPermaLink="false">33e27a7cf1df293277d4afa63fe90dad48f699fa84a8b817d3eb968d201e1b9f</guid>
+    </item>
+    <item>
+      <title>尾道 因島 大学生が運営する水族館【ひろしま23分の1】</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57239</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 17:06:00 +0900</pubDate>
+      <guid isPermaLink="false">e2291b04d77df0b42fe1af4ce4d48b130b188d674ffa17b9dc51102b808d3629</guid>
+    </item>
+    <item>
+      <title>広島かき 一部で７割死滅 県サンプル調査</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57065</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 12:22:00 +0900</pubDate>
+      <guid isPermaLink="false">08b7cfb5a4b035da467dc75eea68f3c7dbecb3fea378a3645d4f52cc2a5bce94</guid>
+    </item>
+    <item>
+      <title>野球の競技人口減少対策を球界全体で 協議会を設立へ 広島</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57068</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 12:05:00 +0900</pubDate>
+      <guid isPermaLink="false">090a4396322807ebc0d8daf5e19d2d501a1a7f7a8d63b8aeca8ad9a3f7d7b165</guid>
+    </item>
+    <item>
+      <title>広島県警の巡査長 警察署の端末で情報入手し知人に漏えいか</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57035</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 11:40:00 +0900</pubDate>
+      <guid isPermaLink="false">5d11e922e8828805607d7e09384f086b5979f69248d21df442863ca5f8155e60</guid>
+    </item>
+    <item>
+      <title>広島市で住宅全焼し2人死亡 高齢夫婦か</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de56983</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 11:33:00 +0900</pubDate>
+      <guid isPermaLink="false">8fa132e6c70c4ff450943a7a16eb1d452fd541416c7f8ff7f046ec7b0faa549b</guid>
+    </item>
+    <item>
+      <title>【解説】ノーベル化学賞「硤合反応」とは 生命起源に関連か</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261008de56891</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 09:24:33 +0900</pubDate>
+      <guid isPermaLink="false">70dc7f7c7cf548260a49f89b61b51478308252f80fb9496ebf1ec7386154ab93</guid>
+    </item>
+    <item>
+      <title>JR芸備線の利用者増に向け 庄原市がアイデアを募集</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261008de56900</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Fri, 09 Oct 2026 08:18:48 +0900</pubDate>
+      <guid isPermaLink="false">84a4c63b1358cdee8d367193f3572f7792d9c8e0517a0ac87b9db2503d300665</guid>
+    </item>
+    <item>
+      <title>硤合さんが大学で出迎え受ける「自信を持って研究を」</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261008de56839</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Thu, 08 Oct 2026 19:57:42 +0900</pubDate>
+      <guid isPermaLink="false">ed11b4fc9a6f1c163b211c2064187ea4631a778941d40573c12534cd543e645a</guid>
+    </item>
+    <item>
+      <title>硤合さん ノーベル化学賞受賞 地元の府中町も喜びの声 広島</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261008de56828</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Thu, 08 Oct 2026 19:51:09 +0900</pubDate>
+      <guid isPermaLink="false">7e0f490048ee031a6ea8860e692beae9e1510258e3acbcda85259254124392c3</guid>
+    </item>
+    <item>
+      <title>広島県全域に「インフルエンザ注意報」発令 対策徹底を</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261008de56592</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Thu, 08 Oct 2026 18:13:00 +0900</pubDate>
+      <guid isPermaLink="false">0f77102337512bfa53472ff12c8e450c69243ae24655750bc82ca4daaa99603f</guid>
+    </item>
+    <item>
+      <title>日本被団協存続求む意見 広島被団協などから相次ぐ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261008de56775</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Thu, 08 Oct 2026 18:12:00 +0900</pubDate>
+      <guid isPermaLink="false">9c01a520dd680bb2ecee0129536e77d7683a2c0d8eeeddbb88123b91b574b32e</guid>
+    </item>
+    <item>
+      <title>「アポ電」で6800万円余り盗んだか男女4人逮捕 広島</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261008de56552</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Thu, 08 Oct 2026 15:20:00 +0900</pubDate>
+      <guid isPermaLink="false">ec6fa2c4ba72546040330d2a9760a96083bee5a0b8966969a57e56f518bb22f6</guid>
+    </item>
+    <item>
+      <title>広島県警高速隊の巡査長 金銭要求し情報漏えいか逮捕</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261008de56561</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Thu, 08 Oct 2026 15:16:00 +0900</pubDate>
+      <guid isPermaLink="false">a18a135dabc1f8d381dbf98863eaab01a1c0cf1608edc0412e622168a5ae61e6</guid>
+    </item>
+    <item>
+      <title>かき大量死受け江田島市が調査 汚染基準上回る硫化物 広島</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261008de56474</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Thu, 08 Oct 2026 13:04:00 +0900</pubDate>
+      <guid isPermaLink="false">e8c54f905c1fa9abd13bf283dceec882488531aacb4ee85ad03bead2ac49d034</guid>
+    </item>
+    <item>
+      <title>硤合さん ノーベル化学賞受賞で母校でも祝福の声 広島</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261008de56455</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Thu, 08 Oct 2026 12:26:00 +0900</pubDate>
+      <guid isPermaLink="false">e1634d79192b9cb4ba216b826d80af7c965cee69c5d9f1c6b3e1331a65264c19</guid>
+    </item>
+    <item>
+      <title>【独自】広島県警高速隊 巡査長 金銭求め個人情報漏えいか逮捕</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261008de56318</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Thu, 08 Oct 2026 11:13:00 +0900</pubDate>
+      <guid isPermaLink="false">568be95e4e4aa4e4037ee585c01ec91c14c909bd19b2b4f2d327575ed7da49f7</guid>
+    </item>
+    <item>
+      <title>広島 竹原 こども園でラグビーの体験教室</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de55992</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Wed, 07 Oct 2026 20:21:41 +0900</pubDate>
+      <guid isPermaLink="false">42ddf236562ba153b290d8543ad50d2a74bd1a580e46d604d26ff62118e2c6da</guid>
+    </item>
+    <item>
+      <title>かき消費拡大目指し「かきマシマシ」キャンペーン始まる 広島</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de55920</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Wed, 07 Oct 2026 20:19:44 +0900</pubDate>
+      <guid isPermaLink="false">50e1a00a2c41883d85c97fd06659255dfe4f8d04cb75a97e802ed83bef79a678</guid>
+    </item>
+    <item>
+      <title>新名神6人死亡事故 広島市の運送会社が過去に労基法違反疑い</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de56063</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Wed, 07 Oct 2026 20:18:04 +0900</pubDate>
+      <guid isPermaLink="false">828e4cc775dbe7b25a25fdfa39f21077786c04f358f24ee34c37258f18af9236</guid>
+    </item>
+    <item>
+      <title>被団協70年式典 代表委員「政府は核兵器廃絶のリーダーに」</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de56071</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Wed, 07 Oct 2026 20:16:07 +0900</pubDate>
+      <guid isPermaLink="false">4a0a163075114e968114ab431dcf52a3cb031907262f3659a8ad6ed5cd7a8f2a</guid>
+    </item>
+    <item>
+      <title>ノーベル化学賞に広島出身の硤合憲三さん</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de56118</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Wed, 07 Oct 2026 20:12:00 +0900</pubDate>
+      <guid isPermaLink="false">657afb1eeb58606be7f1f55139de87beb0aeef01bf0f9a8dfacf076243ca99ca</guid>
+    </item>
+    <item>
+      <title>野球日本代表にカープから今季28盗塁の辰見選手など3選手 選出</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de55981</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Wed, 07 Oct 2026 18:41:22 +0900</pubDate>
+      <guid isPermaLink="false">1745351851d56e4aacea3e2b68d0cc7bdffbc0d9978d1b684ab4f05016231527</guid>
+    </item>
+    <item>
+      <title>広島県警 自転車に「青切符」676件 制度開始から半年で</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de56052</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Wed, 07 Oct 2026 18:38:00 +0900</pubDate>
+      <guid isPermaLink="false">84e7ce1c6081af94df527270a0a61183a377243f6ae649c4775a8acfaf0f8b52</guid>
+    </item>
+    <item>
+      <title>世羅 雲海とコスモスが朝日に染まる 広島</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de55697</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Wed, 07 Oct 2026 12:43:59 +0900</pubDate>
+      <guid isPermaLink="false">cc8c50cd22f88922090fe17d51877cdc9412441c7b18d4d091ad3854c16be034</guid>
+    </item>
+    <item>
+      <title>広島 修道学園に不正アクセス 教職員や学生 情報漏えいおそれ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de55776</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Wed, 07 Oct 2026 12:41:45 +0900</pubDate>
+      <guid isPermaLink="false">831c277410a0aea3569c63d1e91cfaedc73d901d1b29d54e1f0a2bf77f12f0e4</guid>
+    </item>
+    <item>
+      <title>庄原 地震時の避難の呼びかけ方を考える防災教室</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de55596</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Wed, 07 Oct 2026 05:22:00 +0900</pubDate>
+      <guid isPermaLink="false">b1721a4a20ff1a16126708653027646d15e42cd4e9acb8ee96e2a2273ed65a99</guid>
+    </item>
+    <item>
+      <title>「タイムズカー」情報漏えい 中国地方各県 免許再交付認める</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de55594</link>
+      <description>NHK 過去1週間分のニュース（広島県）</description>
+      <pubDate>Wed, 07 Oct 2026 05:21:00 +0900</pubDate>
+      <guid isPermaLink="false">beaf6a18ca20ac73c5ab020dacb4cecb5db786eef2bc7b4dac72adb95720cdef</guid>
     </item>
   </channel>
 </rss>
